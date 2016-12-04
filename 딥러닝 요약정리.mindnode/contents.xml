@@ -1,0 +1,1101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>author</key>
+	<string></string>
+	<key>comments</key>
+	<string></string>
+	<key>isUsingConstrainedLayout</key>
+	<false/>
+	<key>keywords</key>
+	<string></string>
+	<key>mindMap</key>
+	<dict>
+		<key>associations</key>
+		<array>
+			<dict>
+				<key>endArrow</key>
+				<integer>2</integer>
+				<key>endNodeID</key>
+				<string>08B27284-7713-42B1-966C-55A7B646D48B</string>
+				<key>startArrow</key>
+				<integer>0</integer>
+				<key>startNodeID</key>
+				<string>1EA57A12-F1FC-47F3-B434-CE50CEA7DC34</string>
+				<key>strokeColor</key>
+				<string>{0.997, 0.355, 0.184, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>3</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>wayPointOffset</key>
+				<string>{584.782, 97.1915}</string>
+			</dict>
+		</array>
+		<key>color</key>
+		<string>{0.956, 0.966, 0.956, 1.000}</string>
+		<key>mainNodes</key>
+		<array>
+			<dict>
+				<key>contentAlignment</key>
+				<integer>1</integer>
+				<key>fillColor</key>
+				<string>{1.000, 1.000, 1.000, 1.000}</string>
+				<key>isDecreasingBranchThickness</key>
+				<true/>
+				<key>isDrawingFill</key>
+				<true/>
+				<key>isLeftAligned</key>
+				<false/>
+				<key>location</key>
+				<string>{0.39855626976839176, 0}</string>
+				<key>nodeID</key>
+				<string>574301D7-CEFC-4889-B48B-DCE6D5C0E30B</string>
+				<key>strokeColor</key>
+				<string>{0.965, 0.965, 0.965, 1.000}</string>
+				<key>strokeStyle</key>
+				<integer>0</integer>
+				<key>strokeWidth</key>
+				<real>2</real>
+				<key>subnodes</key>
+				<array>
+					<dict>
+						<key>contentAlignment</key>
+						<integer>1</integer>
+						<key>fillColor</key>
+						<string>{1.000, 1.000, 1.000, 1.000}</string>
+						<key>isDecreasingBranchThickness</key>
+						<true/>
+						<key>isDrawingFill</key>
+						<false/>
+						<key>isLeftAligned</key>
+						<false/>
+						<key>location</key>
+						<string>{145.39855626976839, 11}</string>
+						<key>nodeID</key>
+						<string>C6F5CB9E-9C87-4FC2-82CF-EAE51B3C8515</string>
+						<key>strokeColor</key>
+						<string>{0.144, 0.670, 1.000, 1.000}</string>
+						<key>strokeStyle</key>
+						<integer>0</integer>
+						<key>strokeWidth</key>
+						<real>6</real>
+						<key>subnodes</key>
+						<array>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{362.39855626976839, -319.51855764188343}</string>
+								<key>nodeID</key>
+								<string>1C8B0463-526E-4719-B083-A524B1286201</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array/>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 24px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;선형&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 24px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 24px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;회귀&lt;/span&gt;&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg949\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset129 AppleSDGothicNeo-Regular;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs48 \cf2 \'bc\'b1\'c7\'fc
+\f1  
+\f0 \'c8\'b8\'b1\'cd}</string>
+								</dict>
+							</dict>
+							<dict>
+								<key>contentAlignment</key>
+								<integer>1</integer>
+								<key>fillColor</key>
+								<string>{1.000, 1.000, 1.000, 1.000}</string>
+								<key>isDecreasingBranchThickness</key>
+								<true/>
+								<key>isDrawingFill</key>
+								<false/>
+								<key>isLeftAligned</key>
+								<false/>
+								<key>location</key>
+								<string>{362.39855626976839, 29.5}</string>
+								<key>nodeID</key>
+								<string>8277A0FA-CFA7-4617-8F5E-6F78FD73A4E1</string>
+								<key>strokeColor</key>
+								<string>{0.144, 0.670, 1.000, 1.000}</string>
+								<key>strokeStyle</key>
+								<integer>0</integer>
+								<key>strokeWidth</key>
+								<real>5</real>
+								<key>subnodes</key>
+								<array>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{485.2825867478881, -207.73703844202549}</string>
+										<key>nodeID</key>
+										<string>BC4178C7-72F7-44E6-AC3B-F9504D49DBCF</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{616.84239860885987, -290.35191049955358}</string>
+												<key>nodeID</key>
+												<string>A98BF618-F47E-4AB8-A5D4-F3801C66514D</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;가설&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg949\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset129 AppleSDGothicNeo-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs36 \cf2 \'b0\'a1\'bc\'b3}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>attachment</key>
+												<dict>
+													<key>fileName</key>
+													<string>ADE2FC9A-1A6A-47A5-A1C2-9FD561E69BA6.tiff</string>
+													<key>size</key>
+													<string>{53, 27}</string>
+													<key>type</key>
+													<integer>2</integer>
+												</dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<true/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{645.2825867478881, -211.23703844202549}</string>
+												<key>nodeID</key>
+												<string>E8FC8530-512C-45D7-B8B7-30612F42A456</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>attachment</key>
+														<dict>
+															<key>fileName</key>
+															<string>E4F89644-D02C-452E-9770-9C7DE602D601.tiff</string>
+															<key>size</key>
+															<string>{126.72787231335678, 27.818313434639293}</string>
+															<key>type</key>
+															<integer>2</integer>
+														</dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<true/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{778.2825867478881, -211.64619515934515}</string>
+														<key>nodeID</key>
+														<string>1EA57A12-F1FC-47F3-B434-CE50CEA7DC34</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string></string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg949\cocoartf1504\cocoasubrtf600
+{\fonttbl}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
+}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string></string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg949\cocoartf1504\cocoasubrtf600
+{\fonttbl}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
+}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;hypothesis&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg949\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs36 \cf2 hypothesis}</string>
+										</dict>
+									</dict>
+									<dict>
+										<key>contentAlignment</key>
+										<integer>1</integer>
+										<key>fillColor</key>
+										<string>{1.000, 1.000, 1.000, 1.000}</string>
+										<key>isDecreasingBranchThickness</key>
+										<true/>
+										<key>isDrawingFill</key>
+										<false/>
+										<key>isLeftAligned</key>
+										<false/>
+										<key>location</key>
+										<string>{445.13665335232872, 171.8039403813701}</string>
+										<key>nodeID</key>
+										<string>F0F5E9D0-BD30-4B15-A725-7316A5FE30B9</string>
+										<key>strokeColor</key>
+										<string>{0.144, 0.670, 1.000, 1.000}</string>
+										<key>strokeStyle</key>
+										<integer>0</integer>
+										<key>strokeWidth</key>
+										<real>4</real>
+										<key>subnodes</key>
+										<array>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{700.5041838764248, -57.51206077672984}</string>
+												<key>nodeID</key>
+												<string>78B92E68-E77F-42F4-A270-EBEFD9E44BE0</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array/>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;가설과 실제 데이터의 오차&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg949\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset129 AppleSDGothicNeo-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \'b0\'a1\'bc\'b3\'b0\'fa \'bd\'c7\'c1\'a6 \'b5\'a5\'c0\'cc\'c5\'cd\'c0\'c7 \'bf\'c0\'c2\'f7}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{681.03889247884763, 46.762188134630861}</string>
+												<key>nodeID</key>
+												<string>91A4A831-635F-4949-B9F5-C330D6178F6C</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>attachment</key>
+														<dict>
+															<key>fileName</key>
+															<string>4C7467A7-FD0D-4DC4-A028-DD8724708195.tiff</string>
+															<key>size</key>
+															<string>{74, 27}</string>
+															<key>type</key>
+															<integer>2</integer>
+														</dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<true/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{918.03889247884774, -36.237811865369139}</string>
+														<key>nodeID</key>
+														<string>6289F721-909E-45AE-9F72-66F314C8148F</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;격차가&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; +&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;일경우&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;적용하기&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;힘듦&lt;/span&gt;&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg949\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset129 AppleSDGothicNeo-Regular;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \'b0\'dd\'c2\'f7\'b0\'a1
+\f1  +
+\f0 \'c0\'cf\'b0\'e6\'bf\'ec
+\f1  
+\f0 \'c0\'fb\'bf\'eb\'c7\'cf\'b1\'e2
+\f1  
+\f0 \'c8\'fb\'b5\'ea}</string>
+														</dict>
+													</dict>
+													<dict>
+														<key>attachment</key>
+														<dict>
+															<key>fileName</key>
+															<string>2E692D1F-A145-4A66-8ECD-940382D1DF64.tiff</string>
+															<key>size</key>
+															<string>{96, 29}</string>
+															<key>type</key>
+															<integer>2</integer>
+														</dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<true/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{918.03889247884774, 53.762188134630861}</string>
+														<key>nodeID</key>
+														<string>EA45C85D-1FBA-49AC-9505-E89E9584E87C</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array/>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;+-&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;에&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;상관없으며&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;격차가&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;클수록&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;배로&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;커보이게&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;하는&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;효과가&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;있음&lt;/span&gt;&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg949\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fnil\fcharset129 AppleSDGothicNeo-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 +-
+\f1 \'bf\'a1
+\f0  
+\f1 \'bb\'f3\'b0\'fc\'be\'f8\'c0\'b8\'b8\'e7
+\f0  
+\f1 \'b0\'dd\'c2\'f7\'b0\'a1
+\f0  
+\f1 \'c5\'ac\'bc\'f6\'b7\'cf
+\f0  
+\f1 \'b9\'e8\'b7\'ce
+\f0  
+\f1 \'c4\'bf\'ba\'b8\'c0\'cc\'b0\'d4
+\f0  
+\f1 \'c7\'cf\'b4\'c2
+\f0  
+\f1 \'c8\'bf\'b0\'fa\'b0\'a1
+\f0  
+\f1 \'c0\'d6\'c0\'bd}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;1. &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;각&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;값과&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;가설과의&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;차이&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;계산&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg949\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fnil\fcharset129 AppleSDGothicNeo-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 1. 
+\f1 \'b0\'a2
+\f0  
+\f1 \'b0\'aa\'b0\'fa
+\f0  
+\f1 \'b0\'a1\'bc\'b3\'b0\'fa\'c0\'c7
+\f0  
+\f1 \'c2\'f7\'c0\'cc
+\f0  
+\f1 \'b0\'e8\'bb\'ea}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<false/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{681.03889247884763, 250.87158905919463}</string>
+												<key>nodeID</key>
+												<string>5B086768-1361-45D0-97A3-841A85584169</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>attachment</key>
+														<dict>
+															<key>fileName</key>
+															<string>9CB129C9-347A-486E-8B03-D23B63E18A73.tiff</string>
+															<key>size</key>
+															<string>{375.72879464285779, 57.176120923913174}</string>
+															<key>type</key>
+															<integer>2</integer>
+														</dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<true/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{930.03889247884774, 198.78352859723805}</string>
+														<key>nodeID</key>
+														<string>9AD3B264-B6FB-4599-9F4F-D2BACF8ED309</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array>
+															<dict>
+																<key>attachment</key>
+																<dict>
+																	<key>fileName</key>
+																	<string>B4582FBD-43B8-470D-B460-9616CF2ADC5E.tiff</string>
+																	<key>size</key>
+																	<string>{306.09094140991965, 84.267951481273514}</string>
+																	<key>type</key>
+																	<integer>2</integer>
+																</dict>
+																<key>contentAlignment</key>
+																<integer>1</integer>
+																<key>fillColor</key>
+																<string>{1.000, 1.000, 1.000, 1.000}</string>
+																<key>isDecreasingBranchThickness</key>
+																<true/>
+																<key>isDrawingFill</key>
+																<true/>
+																<key>isLeftAligned</key>
+																<false/>
+																<key>location</key>
+																<string>{1371.3015706634469, 191.90458450189641}</string>
+																<key>nodeID</key>
+																<string>99E23E3B-0D02-4BF5-A4AA-0F37BFF12BF3</string>
+																<key>strokeColor</key>
+																<string>{0.144, 0.670, 1.000, 1.000}</string>
+																<key>strokeStyle</key>
+																<integer>0</integer>
+																<key>strokeWidth</key>
+																<real>1</real>
+																<key>subnodes</key>
+																<array>
+																	<dict>
+																		<key>contentAlignment</key>
+																		<integer>1</integer>
+																		<key>fillColor</key>
+																		<string>{1.000, 1.000, 1.000, 1.000}</string>
+																		<key>isDecreasingBranchThickness</key>
+																		<true/>
+																		<key>isDrawingFill</key>
+																		<true/>
+																		<key>isLeftAligned</key>
+																		<false/>
+																		<key>location</key>
+																		<string>{1753.6923353466282, 307.79698270711708}</string>
+																		<key>nodeID</key>
+																		<string>844754FA-A741-45B8-8A64-6AD55F8C476C</string>
+																		<key>strokeColor</key>
+																		<string>{0.144, 0.670, 1.000, 1.000}</string>
+																		<key>strokeStyle</key>
+																		<integer>0</integer>
+																		<key>strokeWidth</key>
+																		<real>1</real>
+																		<key>subnodes</key>
+																		<array/>
+																		<key>title</key>
+																		<dict>
+																			<key>constrainedWidth</key>
+																			<integer>300</integer>
+																			<key>htmlText</key>
+																			<string>&lt;p&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;m&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;은&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;데이터의&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;갯수&lt;/span&gt;&lt;/p&gt;</string>
+																			<key>shrinkToFitContent</key>
+																			<integer>1</integer>
+																			<key>text</key>
+																			<string>{\rtf1\ansi\ansicpg949\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fnil\fcharset129 AppleSDGothicNeo-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 m
+\f1 \'c0\'ba
+\f0  
+\f1 \'b5\'a5\'c0\'cc\'c5\'cd\'c0\'c7
+\f0  
+\f1 \'b0\'b9\'bc\'f6}</string>
+																		</dict>
+																	</dict>
+																	<dict>
+																		<key>attachment</key>
+																		<dict>
+																			<key>fileName</key>
+																			<string>CE628BC9-EA88-4725-AC7F-D3D75BD4D383.tiff</string>
+																			<key>size</key>
+																			<string>{382.22357280941191, 87.218801849127544}</string>
+																			<key>type</key>
+																			<integer>2</integer>
+																		</dict>
+																		<key>contentAlignment</key>
+																		<integer>1</integer>
+																		<key>fillColor</key>
+																		<string>{1.000, 1.000, 1.000, 1.000}</string>
+																		<key>isDecreasingBranchThickness</key>
+																		<true/>
+																		<key>isDrawingFill</key>
+																		<true/>
+																		<key>isLeftAligned</key>
+																		<false/>
+																		<key>location</key>
+																		<string>{1753.6332899733288, 146.32680329735663}</string>
+																		<key>nodeID</key>
+																		<string>08B27284-7713-42B1-966C-55A7B646D48B</string>
+																		<key>strokeColor</key>
+																		<string>{0.144, 0.670, 1.000, 1.000}</string>
+																		<key>strokeStyle</key>
+																		<integer>0</integer>
+																		<key>strokeWidth</key>
+																		<real>1</real>
+																		<key>subnodes</key>
+																		<array/>
+																		<key>title</key>
+																		<dict>
+																			<key>constrainedWidth</key>
+																			<integer>300</integer>
+																			<key>htmlText</key>
+																			<string>&lt;p&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;결국&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;이렇게&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;귀결됨&lt;/span&gt;&lt;/p&gt;</string>
+																			<key>shrinkToFitContent</key>
+																			<integer>1</integer>
+																			<key>text</key>
+																			<string>{\rtf1\ansi\ansicpg949\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset129 AppleSDGothicNeo-Regular;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \'b0\'e1\'b1\'b9
+\f1  
+\f0 \'c0\'cc\'b7\'b8\'b0\'d4
+\f1  
+\f0 \'b1\'cd\'b0\'e1\'b5\'ca}</string>
+																		</dict>
+																	</dict>
+																</array>
+																<key>title</key>
+																<dict>
+																	<key>constrainedWidth</key>
+																	<integer>300</integer>
+																	<key>htmlText</key>
+																	<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;일반화&lt;/p&gt;</string>
+																	<key>shrinkToFitContent</key>
+																	<integer>1</integer>
+																	<key>text</key>
+																	<string>{\rtf1\ansi\ansicpg949\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset129 AppleSDGothicNeo-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs36 \cf2 \'c0\'cf\'b9\'dd\'c8\'ad}</string>
+																</dict>
+															</dict>
+														</array>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;각&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;값과&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;가설의&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;차이를&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;더한뒤&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;나눔&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;(&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;일반적인&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;평균&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;구하는법&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;)&lt;/span&gt;&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg949\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset129 AppleSDGothicNeo-Regular;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 \'b0\'a2
+\f1  
+\f0 \'b0\'aa\'b0\'fa
+\f1  
+\f0 \'b0\'a1\'bc\'b3\'c0\'c7
+\f1  
+\f0 \'c2\'f7\'c0\'cc\'b8\'a6
+\f1  
+\f0 \'b4\'f5\'c7\'d1\'b5\'da
+\f1  
+\f0 \'b3\'aa\'b4\'ae
+\f1 (
+\f0 \'c0\'cf\'b9\'dd\'c0\'fb\'c0\'ce
+\f1  
+\f0 \'c6\'f2\'b1\'d5
+\f1  
+\f0 \'b1\'b8\'c7\'cf\'b4\'c2\'b9\'fd
+\f1 )}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string>&lt;p&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;2. &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;전체&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;값과&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;가설과의&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;차이&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 14px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;평균&lt;/span&gt;&lt;/p&gt;</string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg949\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fnil\fcharset129 AppleSDGothicNeo-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs28 \cf2 2. 
+\f1 \'c0\'fc\'c3\'bc
+\f0  
+\f1 \'b0\'aa\'b0\'fa
+\f0  
+\f1 \'b0\'a1\'bc\'b3\'b0\'fa\'c0\'c7
+\f0  
+\f1 \'c2\'f7\'c0\'cc
+\f0  
+\f1 \'c6\'f2\'b1\'d5}</string>
+												</dict>
+											</dict>
+											<dict>
+												<key>attachment</key>
+												<dict>
+													<key>fileName</key>
+													<string>61FD07E4-998E-4899-A52A-472CFDE67621.tiff</string>
+													<key>size</key>
+													<string>{218.11392545032186, 32.313174140788419}</string>
+													<key>type</key>
+													<integer>2</integer>
+												</dict>
+												<key>contentAlignment</key>
+												<integer>1</integer>
+												<key>fillColor</key>
+												<string>{1.000, 1.000, 1.000, 1.000}</string>
+												<key>isDecreasingBranchThickness</key>
+												<true/>
+												<key>isDrawingFill</key>
+												<true/>
+												<key>isLeftAligned</key>
+												<false/>
+												<key>location</key>
+												<string>{681.03889247884763, 377.32440291336417}</string>
+												<key>nodeID</key>
+												<string>92A52D22-ABA6-462A-A2CF-924189247E15</string>
+												<key>strokeColor</key>
+												<string>{0.144, 0.670, 1.000, 1.000}</string>
+												<key>strokeStyle</key>
+												<integer>0</integer>
+												<key>strokeWidth</key>
+												<real>3</real>
+												<key>subnodes</key>
+												<array>
+													<dict>
+														<key>contentAlignment</key>
+														<integer>1</integer>
+														<key>fillColor</key>
+														<string>{1.000, 1.000, 1.000, 1.000}</string>
+														<key>isDecreasingBranchThickness</key>
+														<true/>
+														<key>isDrawingFill</key>
+														<true/>
+														<key>isLeftAligned</key>
+														<false/>
+														<key>location</key>
+														<string>{979.1528179291696, 392.98098998375838}</string>
+														<key>nodeID</key>
+														<string>82D072D2-3584-448F-A64B-C7BD250A9A95</string>
+														<key>strokeColor</key>
+														<string>{0.144, 0.670, 1.000, 1.000}</string>
+														<key>strokeStyle</key>
+														<integer>0</integer>
+														<key>strokeWidth</key>
+														<real>2</real>
+														<key>subnodes</key>
+														<array>
+															<dict>
+																<key>contentAlignment</key>
+																<integer>1</integer>
+																<key>fillColor</key>
+																<string>{1.000, 1.000, 1.000, 1.000}</string>
+																<key>isDecreasingBranchThickness</key>
+																<true/>
+																<key>isDrawingFill</key>
+																<true/>
+																<key>isLeftAligned</key>
+																<false/>
+																<key>location</key>
+																<string>{1300.3653992228406, 385.93045942565209}</string>
+																<key>nodeID</key>
+																<string>B36D09DF-1821-4C5C-8C45-1B6EFB3B9BC7</string>
+																<key>strokeColor</key>
+																<string>{0.144, 0.670, 1.000, 1.000}</string>
+																<key>strokeStyle</key>
+																<integer>0</integer>
+																<key>strokeWidth</key>
+																<real>1</real>
+																<key>subnodes</key>
+																<array/>
+																<key>title</key>
+																<dict>
+																	<key>constrainedWidth</key>
+																	<integer>354</integer>
+																	<key>htmlText</key>
+																	<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;딥러닝&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;학습은&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;결국&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;가설과&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;실제&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;값의&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;차를&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;줄여&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;특정값에&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;대해&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;예상가능한&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;가설을&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;만드는&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;과정&lt;/span&gt;&lt;/p&gt;</string>
+																	<key>shrinkToFitContent</key>
+																	<integer>0</integer>
+																	<key>text</key>
+																	<string>{\rtf1\ansi\ansicpg949\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset129 AppleSDGothicNeo-Regular;\f1\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs36 \cf2 \'b5\'f6\'b7\'af\'b4\'d7
+\f1  
+\f0 \'c7\'d0\'bd\'c0\'c0\'ba
+\f1  
+\f0 \'b0\'e1\'b1\'b9
+\f1  
+\f0 \'b0\'a1\'bc\'b3\'b0\'fa
+\f1  
+\f0 \'bd\'c7\'c1\'a6
+\f1  
+\f0 \'b0\'aa\'c0\'c7
+\f1  
+\f0 \'c2\'f7\'b8\'a6
+\f1  
+\f0 \'c1\'d9\'bf\'a9
+\f1  
+\f0 \'c6\'af\'c1\'a4\'b0\'aa\'bf\'a1
+\f1  
+\f0 \'b4\'eb\'c7\'d8
+\f1  
+\f0 \'bf\'b9\'bb\'f3\'b0\'a1\'b4\'c9\'c7\'d1
+\f1  
+\f0 \'b0\'a1\'bc\'b3\'c0\'bb
+\f1  
+\f0 \'b8\'b8\'b5\'e5\'b4\'c2
+\f1  
+\f0 \'b0\'fa\'c1\'a4}</string>
+																</dict>
+															</dict>
+														</array>
+														<key>title</key>
+														<dict>
+															<key>constrainedWidth</key>
+															<integer>300</integer>
+															<key>htmlText</key>
+															<string>&lt;p style='text-align: left; '&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;cost(w,b)&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;를&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;최소화&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;하기&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;위한&lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt; &lt;/span&gt;&lt;span style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;과정&lt;/span&gt;&lt;/p&gt;</string>
+															<key>shrinkToFitContent</key>
+															<integer>1</integer>
+															<key>text</key>
+															<string>{\rtf1\ansi\ansicpg949\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;\f1\fnil\fcharset129 AppleSDGothicNeo-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs36 \cf2 cost(w,b)
+\f1 \'b8\'a6
+\f0  
+\f1 \'c3\'d6\'bc\'d2\'c8\'ad
+\f0  
+\f1 \'c7\'cf\'b1\'e2
+\f0  
+\f1 \'c0\'a7\'c7\'d1
+\f0  
+\f1 \'b0\'fa\'c1\'a4}</string>
+														</dict>
+													</dict>
+												</array>
+												<key>title</key>
+												<dict>
+													<key>constrainedWidth</key>
+													<integer>300</integer>
+													<key>htmlText</key>
+													<string></string>
+													<key>shrinkToFitContent</key>
+													<integer>1</integer>
+													<key>text</key>
+													<string>{\rtf1\ansi\ansicpg949\cocoartf1504\cocoasubrtf600
+{\fonttbl}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
+}</string>
+												</dict>
+											</dict>
+										</array>
+										<key>title</key>
+										<dict>
+											<key>constrainedWidth</key>
+											<integer>300</integer>
+											<key>htmlText</key>
+											<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;Cost(Loss) function&lt;/p&gt;</string>
+											<key>shrinkToFitContent</key>
+											<integer>1</integer>
+											<key>text</key>
+											<string>{\rtf1\ansi\ansicpg949\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs36 \cf2 Cost(Loss) function}</string>
+										</dict>
+									</dict>
+								</array>
+								<key>title</key>
+								<dict>
+									<key>constrainedWidth</key>
+									<integer>300</integer>
+									<key>htmlText</key>
+									<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Apple SD Gothic Neo"; text-align: left; -cocoa-font-postscriptname: "AppleSDGothicNeo-Regular"; '&gt;개념&lt;/p&gt;</string>
+									<key>shrinkToFitContent</key>
+									<integer>1</integer>
+									<key>text</key>
+									<string>{\rtf1\ansi\ansicpg949\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset129 AppleSDGothicNeo-Regular;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs36 \cf2 \'b0\'b3\'b3\'e4}</string>
+								</dict>
+							</dict>
+						</array>
+						<key>title</key>
+						<dict>
+							<key>constrainedWidth</key>
+							<integer>300</integer>
+							<key>htmlText</key>
+							<string>&lt;p style='color: rgba(91, 91, 91, 1.000000); font: 18px "Helvetica Neue"; text-align: left; -cocoa-font-postscriptname: "HelveticaNeue"; '&gt;Linear Regression&lt;/p&gt;</string>
+							<key>shrinkToFitContent</key>
+							<integer>1</integer>
+							<key>text</key>
+							<string>{\rtf1\ansi\ansicpg949\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset0 HelveticaNeue;}
+{\colortbl;\red255\green255\blue255;\red91\green91\blue91;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c35700\c35700\c35700;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs36 \cf2 Linear Regression}</string>
+						</dict>
+					</dict>
+				</array>
+				<key>title</key>
+				<dict>
+					<key>constrainedWidth</key>
+					<integer>300</integer>
+					<key>htmlText</key>
+					<string>&lt;p style='color: rgba(21, 122, 150, 1.000000); font: 21px "Apple SD Gothic Neo"; -cocoa-font-postscriptname: "AppleSDGothicNeo-Light"; '&gt;딥러닝&lt;/p&gt;</string>
+					<key>shrinkToFitContent</key>
+					<integer>1</integer>
+					<key>text</key>
+					<string>{\rtf1\ansi\ansicpg949\cocoartf1504\cocoasubrtf600
+{\fonttbl\f0\fnil\fcharset129 AppleSDGothicNeo-Light;}
+{\colortbl;\red255\green255\blue255;\red22\green123\blue151;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c8600\c48200\c59200;}
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs42 \cf2 \'b5\'f6\'b7\'af\'b4\'d7}</string>
+				</dict>
+			</dict>
+		</array>
+	</dict>
+	<key>printInfo</key>
+	<data>
+	BAtzdHJlYW10eXBlZIHoA4QBQISEhAtOU1ByaW50SW5mbwGEhAhOU09iamVjdACFkoSE
+	hBNOU011dGFibGVEaWN0aW9uYXJ5AISEDE5TRGljdGlvbmFyeQCUhAFpCJKEhIQITlNT
+	dHJpbmcBlIQBKxZOU0hvcml6b250YWxseUNlbnRlcmVkhpKEhIQITlNOdW1iZXIAhIQH
+	TlNWYWx1ZQCUhAEqhIQBY50BhpKEmZkNTlNSaWdodE1hcmdpboaShJuchIQBZp5IhpKE
+	mZkMTlNMZWZ0TWFyZ2luhpKfkoSZmRVOU0hvcml6b25hbFBhZ2luYXRpb26GkoSbnISX
+	lwKGkoSZmRROU1ZlcnRpY2FsUGFnaW5hdGlvboaShJucpJcAhpKEmZkUTlNWZXJ0aWNh
+	bGx5Q2VudGVyZWSGkpqShJmZC05TVG9wTWFyZ2luhpKEm5ygnlqGkoSZmQ5OU0JvdHRv
+	bU1hcmdpboaSqYaG
+	</data>
+	<key>title</key>
+	<string>딥러닝</string>
+	<key>version</key>
+	<integer>4</integer>
+</dict>
+</plist>
